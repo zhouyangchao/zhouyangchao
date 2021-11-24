@@ -1,35 +1,32 @@
-<h1 align="center">Hi visitor, I'm Yangchao Zhou. Welcome to my profile</h1>
-<p align="center">
-<a href="https://kasroudra.github.io/kasweb" target="blank"><img align="center" src="https://github.com/KasRoudra/kasweb/raw/main/assets/kas.png" alt="kaswebsite" height="100" width="100"></a></p>
+### Work Experience
+In the overview below you will find my most recent work experience:
 
-<h3 align="center">Formerly a student but passionate in programming</h3>
-<h2 align="center">Personal Details</h2>
-<p align="center">
-	
-	
-1. Learning programming languages: HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby, Java 
- 
-2. Contact me in messenger: <a href = "https://m.me/KasRoudra" target="blank">KasRoudra</a>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-3. Hobby: Reading books, Listen music, Play games.
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
 
-4. Loves to: Create Ebooks, Ringtones, Fake Screenshots, Memes, Meme Templates.
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/117157879_723271164886027_6832852747032950145_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zyp-1Ru5Gd0AX8VTUQ0&_nc_ht=scontent-gru2-2.xx&oh=80c3d0fb8b767a2ac016cf703fd0bd3f&oe=61509D88"/>](https://rocketseat.com.br/)
 
-5. Collections of : APK, ISO, MP3, EXE, JPEG, PDF.
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Languages & Technologies: `JavaScript`, `Node`, `React`\
+Projects: [Ignite](), [Bootcamp]()
+<br/>
 
-6. Experienced in: Phone Rooting, Custom Rom/Recovery, Install OS in PC.
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
-7. My repositories: <a href= "https://github.com/KasRoudra?tab=repositories" target="blank"> KasRepositories</a>
-</p>
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [App](https://nubank.com.br/)
+<br/>
+<br/>
 
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
-<img src="https://metrics.lecoq.io/KasRoudra">	
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
+Please find me on [LinkedIn](https://www.linkedin.com/in/coloque-aqui-seu-username/) for a more detailed description of my full work experience, education and certification.
 
 <h2 align="center">My Best works</h2>
 
