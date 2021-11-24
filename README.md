@@ -28,7 +28,7 @@ Featured Projects: [App](https://nubank.com.br/)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/coloque-aqui-seu-username/) for a more detailed description of my full work experience, education and certification.
 
-<h2 align="center">My Best works</h2>
+### My Best works
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
