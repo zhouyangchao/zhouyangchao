@@ -1,28 +1,31 @@
+### Overview
+
+I am a DPDK network software engineer with more than 8 years of development experience. Willing to learn, explore and solve technical and non-technical problems. Be curious about work and life.
+
 ### Work Experience
-In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="188px" alt="Shopee" src="https://www.sea.com/img/logobrand-shopee.821716a9.png"/>](https://www.sea.com/products/shopee/)
 
 **Export Software Engineer && Tech Lead** \
 [**Shopee**](https://www.sea.com/products/shopee/) • Permanent \
-Languages & Technologies: `C`, `Python`, `DPDK`, `Linux`, `GoLang`, `Devops` \
-Featured Projects: Load Balancer, SNAT
+Languages & Technologies: `C`, `DPDK`, `Linux`, `GoLang`, `Python`, `Devops` \
+Keywords: Traffic Engineering, Load Balancer, SNAT
 <br/>
 
 [<img align="left" height="94px" width="188px" alt="Tencent" src="https://www.tencent.com/img/index/tencent_logo.png"/>](https://www.tencent.com/)
 
 **Senior Software Engineer** \
 [**Tecent**](https://www.tencent.com/) • Permanent \
-Languages & Technologies: `C`, `Python`, `DPDK`, `Linux` \
-Projects: Tencent vSwitch
+Languages & Technologies: `C`, `DPDK`, `Linux`, `Python` \
+Keywords: Tecent Cloud, vSwitch, SDN, IaaS, DPU, Offload
 <br/>
 
 [<img align="left" height="94px" width="188px" alt="Sangfor" src="https://sangfor.co.kr/wp-content/uploads/2021/03/cropped-cropped-cropped-sangfor-logo-rev23png.png"/>](https://www.sangfor.com/)
 
 **Senior Software Engineer** \
 [**Sangfor**](https://www.sangfor.com/) • Permanent \
-Languages & Technologies: `C`, `DPDK`, `Linux` \
-Featured Projects:
+Languages & Technologies: `C`, `DPDK`, `OVS`, `Linux`, `NFV` \
+Keywords: NFV, Cloud, AF, AD, HCI
 <br/>
 <br/>
 
